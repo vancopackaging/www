@@ -1,3 +1,7 @@
+# Run Jekyll
+bundle exec jekyll serve
+
+
 @darcyknox
 @mneumegen
 darcyknox and mneumegen Link to CloudCannon social pages
