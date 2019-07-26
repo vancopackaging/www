@@ -1,3 +1,9 @@
+@darcyknox
+@mneumegen
+darcyknox and mneumegen Link to CloudCannon social pages
+Latest commit 59a6599  on Jun 4
+
+
 # Frisco
 
 App promotion themed template for Jekyll. Browse through a [live demo](https://brave-submarine.cloudvent.net/).
